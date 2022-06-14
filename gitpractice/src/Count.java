@@ -1,3 +1,6 @@
 public class Count {
-    public void count(){System.out.println("I am 25 years old.");}
+    public void count(int month){
+        System.out.println("I was born in " + month);
+    }
+
 }
