@@ -1,7 +1,7 @@
 public class Cheer {
 
-    public void cheer(){
-        System.out.println("Java");
+    public void cheer(String message, String text){
+        System.out.println(message+" Java "+text);
     }
 
 }
