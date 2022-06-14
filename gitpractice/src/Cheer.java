@@ -1,7 +1,7 @@
 public class Cheer {
 
-    public void cheer(){
-        System.out.println("Morgan Stanley Java Academy");
+    public void cheer(String message){
+        System.out.println("Morgan Stanley Java Academy, "+message);
     }
 
 }
