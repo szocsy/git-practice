@@ -1,5 +1,6 @@
 public class Count {
-    int a = 3;
-    public void count(int a){
-        System.out.println(a);}
+    public void count(int month){
+        System.out.println("I was born in " + month);
+    }
+
 }
