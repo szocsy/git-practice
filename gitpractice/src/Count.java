@@ -1,3 +1,5 @@
 public class Count {
-    public void count(){System.out.println("I am 25 years old.");}
+    int a = 3;
+    public void count(int a){
+        System.out.println(a);}
 }
